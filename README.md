@@ -1,5 +1,7 @@
 # Semantic HTML Layout Structure
 
+![image](https://github.com/sifatfaysaldipto/web-skeleton/blob/main/public/web-skeleton.png)
+
 This is a basic example of a semantic HTML layout structure. Semantic HTML provides meaning to the content of a web page by using elements that describe the structure of the content rather than just its appearance.
 
 ## HTML Structure
